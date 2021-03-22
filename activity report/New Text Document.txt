@@ -1,0 +1,6 @@
+day 4 which i checked for missing values which was none except the column "condition".i plotted histogram and the graph was pretty straight so i put the mode of condition which is depression
+
+therefore there is no missing values
+
+
+i'm a 2020 
